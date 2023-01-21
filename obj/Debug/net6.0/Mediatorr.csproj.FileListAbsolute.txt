@@ -1,0 +1,15 @@
+D:\Project\DesingePattern\Mediatorr\bin\Debug\net6.0\Mediatorr.exe
+D:\Project\DesingePattern\Mediatorr\bin\Debug\net6.0\Mediatorr.deps.json
+D:\Project\DesingePattern\Mediatorr\bin\Debug\net6.0\Mediatorr.runtimeconfig.json
+D:\Project\DesingePattern\Mediatorr\bin\Debug\net6.0\Mediatorr.dll
+D:\Project\DesingePattern\Mediatorr\bin\Debug\net6.0\ref\Mediatorr.dll
+D:\Project\DesingePattern\Mediatorr\bin\Debug\net6.0\Mediatorr.pdb
+D:\Project\DesingePattern\Mediatorr\obj\Debug\net6.0\Mediatorr.csproj.AssemblyReference.cache
+D:\Project\DesingePattern\Mediatorr\obj\Debug\net6.0\Mediatorr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DesingePattern\Mediatorr\obj\Debug\net6.0\Mediatorr.AssemblyInfoInputs.cache
+D:\Project\DesingePattern\Mediatorr\obj\Debug\net6.0\Mediatorr.AssemblyInfo.cs
+D:\Project\DesingePattern\Mediatorr\obj\Debug\net6.0\Mediatorr.csproj.CoreCompileInputs.cache
+D:\Project\DesingePattern\Mediatorr\obj\Debug\net6.0\Mediatorr.dll
+D:\Project\DesingePattern\Mediatorr\obj\Debug\net6.0\ref\Mediatorr.dll
+D:\Project\DesingePattern\Mediatorr\obj\Debug\net6.0\Mediatorr.pdb
+D:\Project\DesingePattern\Mediatorr\obj\Debug\net6.0\Mediatorr.genruntimeconfig.cache
